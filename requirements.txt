@@ -5,7 +5,7 @@ plotly
 openpyxl
 seaborn
 matplotlib
-
+statsmodels
 
 
 
